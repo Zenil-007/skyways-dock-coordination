@@ -10,6 +10,14 @@
 
 ---
 
+<p align="center">
+  <img src="skyways-problem-overview.png" width="90%" alt="SkyWays Logistics Problem Overview">
+</p>
+
+<p align="center">
+  <img src="skyways-problem-overview - 2.png" width="90%" alt="SkyWays Logistics Operational Challenges">
+</p>
+
 ## 🚛 The Problem at a Glance
 
 *An overview of the operational challenges that can occur when trucks are delayed and warehouse appointments need to be coordinated.*
