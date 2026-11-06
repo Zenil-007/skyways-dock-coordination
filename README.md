@@ -14,6 +14,9 @@
 
 *An overview of the operational challenges that can occur when trucks are delayed and warehouse appointments need to be coordinated.*
 
+skyways-problem-overview - 2.png
+
+
 ## 1. Introduction
 
 SkyWays Logistics is a fictional freight and logistics company used as the setting for this capstone project.
