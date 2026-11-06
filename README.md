@@ -12,8 +12,6 @@
 
 ## 🚛 The Problem at a Glance
 
-![SkyWays Logistics - Dock Coordination Problem Overview](docs/images/skyways-problem-overview.png)
-
 *An overview of the operational challenges that can occur when trucks are delayed and warehouse appointments need to be coordinated.*
 
 ## 1. Introduction
